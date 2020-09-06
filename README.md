@@ -747,10 +747,11 @@ This page will only be available for admin users. The page will allow administra
 
 ## Author Info
 
+Omar Shabana
+
 William Boyle
 
 Owen Ng
 
-Omar Shabana
 
 [Back To The Top](#project-ceres)
