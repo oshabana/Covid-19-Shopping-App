@@ -1,0 +1,151 @@
+{
+  "groceries": [
+    {
+      
+        
+        "name": "Loblaws",
+        "address": "5010 Glen Erin Dr, Mississauga",
+        "open": "7a.m.–9p.m",
+        "timesubmitted": [],
+        "wait": "?min",
+        "coordinates": [
+          -79.714462,
+          43.554941
+        ]
+     
+   
+    },
+    {
+     
+       
+        "name": "Adonis",
+        "address": "1240 Eglinton Ave W, Mississauga",
+        "open": "8a.m.–9p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.682128,
+          43.579636
+        ]
+      
+     
+    },
+    {
+      
+        
+        "name": "Oceans",
+        "address": "4557 Hurontario St, Mississauga",
+        "open": "9a.m.–10p.m.",
+        "wait": "?min",
+        "coordinates": [
+          -79.647492,
+          43.606205
+        ]
+      
+    },
+    {
+      
+       
+        "name": "Walmart Supercentre",
+        "address": "100 City Centre Dr, Mississauga",
+        "open": "7a.m.–10p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.641059,
+          43.594291
+        ]
+      
+    },
+    {
+     
+     
+        "name": "Metro",
+        "address": "2208 Lake Shore Blvd W, Etobicoke",
+        "open": "7a.m.–8p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.482837,
+          43.623510
+        ]
+      
+    },
+    {
+    
+        
+        "name": "Rabba Fine Foods",
+        "address": "3089 Lake Shore Blvd W, Etobicoke",
+        "open": "24hrs",
+        "wait": "?min",
+        "coordinates": [
+          -79.511999,
+          43.598961
+        ]
+      
+      },
+    
+    {
+     
+       
+        "name": "Walmart Supercentre",
+        "address": "900 Dufferin St, Toronto",
+        "open": "7a.m.–11p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.435658,
+          43.656295
+        ]
+      
+    },
+    {
+      
+      
+        "name": "Metro",
+        "address": "444 Yonge St, Toronto",
+        "open": "7a.m.–8p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.383599,
+          43.660674
+        ]
+      
+    },
+    {
+     
+   
+        "name": "Perola's Supermarket",
+        "address": "247 Augusta Ave, Toronto",
+        "open": "8:30a.m.–5:30p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.401964,
+          43.654945
+        ]
+      
+    },
+    {
+      
+        
+        "name": "New Spiceland Supermarket",
+        "address": "6065 Steeles E, Toronto",
+        "open": "8a.m.–8p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.248650,
+          43.836599
+        ]
+      
+    },
+    {
+      
+      
+        "name": "Fusion Supermarket",
+        "address": "1150 Morningside Ave Suite 113, Scarborough",
+        "open": "8:30a.m.–9p.m",
+        "wait": "?min",
+        "coordinates": [
+          -79.200574,
+          43.800340
+        ]
+      
+    }
+  ]
+}

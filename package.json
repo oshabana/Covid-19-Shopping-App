@@ -1,0 +1,37 @@
+{
+  "name": "team18",
+  "version": "1.0.0",
+  "description": "![Project Image](public/logo192.png)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "setup": "npm install && cd client && npm install && cd ..",
+    "build-run": "cd client && npm run build && cd .. && nodemon server.js",
+    "heroku-postbuild": "cd client && npm install && npm run build",
+    "dbserver": "mongod --dbpath ./mongo-data &",
+    "killdb": "kill $(lsof -t -i:27017)",
+    "local": "npm run dbserver && npm run build-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc309-summer-2020/team18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc309-summer-2020/team18/issues"
+  },
+  "homepage": "https://github.com/csc309-summer-2020/team18#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "date-and-time": "^0.14.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.9.27",
+    "validator": "^13.1.1"
+  }
+}

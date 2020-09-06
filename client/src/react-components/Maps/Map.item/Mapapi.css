@@ -1,0 +1,19 @@
+.leaflet-container {
+  height: 498px;
+  width: 100%;
+  border-radius: 10px;
+ 
+  
+}
+.search{
+  --icon-width: 300px;
+}
+.tooltip{
+    
+    width: 150px;
+    background-color: none;
+    border-color: none;
+    background: none;
+    border: none;
+    box-shadow: none;
+}

@@ -1,0 +1,92 @@
+.GroceryList{
+    width: 100%;
+}
+
+.GroceryList-currentList{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 60%;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	background-color: antiquewhite;
+	
+}
+
+.GroceryList-list-btn{
+	text-align: center;
+	font-size: 12px;
+	margin-left: 10px;
+	display: inline-block;
+	padding: 5px;
+	
+
+}
+
+.GroceryList-list-title{
+	display: inline-block;
+	text-align: center;
+}
+
+.col-sm{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+    display: inline-block;
+    margin: 10px; 
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.GroceryList-list-change-btn {
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+
+.GroceryList-list-change-btn:hover {
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	background-color:#fb9e25;
+}
+
+.GroceryList-list-change-btn:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-delete {
+	border: 1px solid darkred;
+	background:linear-gradient(to bottom, darkgrey 5%, #535353 100%);
+	background-color: darkgrey;
+}
+
+.btn-delete:hover {
+	background:linear-gradient(to bottom, darkred 5%, red 100%);
+	background-color: darkred;
+	color: white;
+}
+
+.btn-edit {
+	border: 1px solid #0275d8;
+	background:linear-gradient(to bottom, darkgrey 5%, #535353 100%);
+	background-color: darkgrey;
+}
+
+.btn-edit:hover {
+	background:linear-gradient(to bottom, blue 5%, #0275d8 100%);
+	background-color: #0275d8;
+	color: white;
+}

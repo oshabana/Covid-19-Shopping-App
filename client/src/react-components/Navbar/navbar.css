@@ -1,0 +1,23 @@
+.bg-prime {
+    background-color: #fb9e25;
+}
+
+.navbar-brand {
+    font-size: 25px !important;
+    font-weight: bold;
+}
+.navbar-item {
+    margin-left: 10px;
+}
+.nav-link {
+    font-size: 20px !important;
+    font-weight: bold;
+}
+
+.btn-log {
+    font-weight: normal;
+}
+
+.logo {
+    max-height: 16%;
+}

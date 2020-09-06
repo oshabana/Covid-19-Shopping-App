@@ -1,0 +1,100 @@
+.FamilyTribe{
+    width: 100%;
+}
+
+.Family-list{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: antiquewhite;
+    
+}
+
+.col-sm{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 30%;
+    display: inline-block;
+    margin: 10px; 
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.col-lg{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100%;
+    display: inline-block;
+    margin: 10px; 
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.TribeList-list-change-btn {
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+
+.TribeList-list-change-btn:hover {
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	background-color:#fb9e25;
+}
+.TribeList-list-change-btn:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-showList {
+	float: right;
+}
+
+.btn-add-tribe {
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+
+.btn-add-tribe:hover {
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	background-color:#fb9e25;
+}
+
+.btn-add-tribe:active {
+	position:relative;
+	top:1px;
+}
+
+.bottomForm {
+	margin-left: 15px;
+	position: absolute;
+	bottom: 10px;
+}
