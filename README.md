@@ -35,7 +35,7 @@ Front End
 
 -   [React.js](https://reactjs.org)
 -   [Bootstrap](https://getbootstrap.com)
--   [React Leaflet](https://react-leaflet.js.org)\
+-   [React Leaflet](https://react-leaflet.js.org)
 -   [JQuery](https://jquery.com)
 
 Back End
